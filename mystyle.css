@@ -1,0 +1,26 @@
+ul{
+    background-color: greenyellow;
+    color: black;
+    font-size: 25px;
+}
+h1{
+    color: blue;
+    font-size: 50px;
+    position: absolute;
+    top: 15%;
+    left: 30%;
+}
+body{
+    background-color: rgb(89, 134, 89);
+}
+footer{
+    background-color: grey;
+}
+.contactform{
+    background-position: 10%;
+    background-color: rgb(187, 103, 243);
+    position: absolute;
+    top: 30%;
+    left: 30%;
+    
+}
